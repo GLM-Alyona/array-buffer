@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/jr965k8lc0ai02yg?svg=true)](https://ci.appveyor.com/project/GLM-Alyona/array-buffer)
